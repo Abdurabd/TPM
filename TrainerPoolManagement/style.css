@@ -1,0 +1,120 @@
+﻿.body {
+    /*background-color: #4c7387;*/
+    /*margin-top:120px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background-color: pink;*/
+    /*background-color: #fdfdff;*/
+    /*background-color:lavenderblush;*/
+    
+}
+.background-colour {
+    background-color: white;
+    /*background-image: url('images/loginimages.jpg');*/
+    background-image: url('images/backimges.jpg');
+    min-height: 380px;
+    /*background-position: center;*/
+    /*background-repeat: no-repeat;*/
+    background-size: cover;
+    /*/*background-image: url('images/logionimage.jpg');*/ */;
+    /*background-image: url('images/projectimg2.png');*/
+}
+.img-adjusting {
+    width: 100px;
+    height: 100px;
+    margin-left:100px;
+}
+.logo-adjust {
+width:80px;
+height:80px;
+margin-top:100px;
+}
+.image-table {
+    /*background-image: url('images/projectimg2.png');
+    width:80px;
+height:80px;*/
+}
+
+.table {
+background-color:white;
+margin-top:100px;
+}
+.user-right {
+text-align:left;
+}
+.textbox{
+width:100%;
+}
+.forget-password {
+text-align:right;
+}
+.log-button {
+text-align:center;
+}
+.button {
+padding:5px 30px 5px 30px;
+background-color:#2e5565;
+color:white;
+border-radius:20px;
+}
+.login-heading{
+    font-size:30px;
+    /*background-color:#2e5565;*/
+    text-align:center;
+    padding:20px;
+    margin-top:5px;
+    color:white;
+}
+.registraion-heading {
+    font-size:30px;
+    background-color:#2e5565;
+    padding:20px;
+    margin-top:5px;
+    color:white;
+}
+.Registration-form{
+text-align:center;
+color:dimgrey;
+margin-top:80px;
+}
+.registration-table {
+padding:10px;
+background-color:grey;
+/*background-color:#bfe2d3;*/
+}
+.register-button {
+text-align:left;
+color:white;
+background-color:#2e5565;
+padding:10px 30px 10px 30px;
+}
+.firstname-width {
+width:80%;
+}
+.logo-size {
+width:50px;
+height:50px;
+vertical-align:middle;
+}
+.row-color {
+background-color:#798d8b;
+color:white;
+}
+.background-img {
+background-image: url('images/projectimg.png');
+}
+.colorfor-image {
+color:#2e5565;
+}
+.forgot-pass-link {
+color:#2e5565;
+}
+.dropdown-adjust {
+margin-left:50px;
+}
+.remember-me-alignment {
+margin-left:100px;
+}
